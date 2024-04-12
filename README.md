@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=Tianyi-Otakue&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=Tianyi-Otaku&show_icons=true&theme=transparent)
